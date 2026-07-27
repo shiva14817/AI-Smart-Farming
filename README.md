@@ -29,23 +29,39 @@ FarmGenius is an advanced, multi-agent agricultural assistant designed for India
 ---
 
 ## ✨ Features
-- **Multi-Agent Chat**: Conversational assistant with intent routing and context memory
-- **Market Data**: AgMarkNet scraping, static fallback, and forecasting
-- **Yield Prediction**: Google Maps farm selection, OpenWeather integration, ML models
-- **Disease Detection**: Deep learning or Gemini Vision analysis of crop images
-- **Nationwide Coverage**: All major crops, markets, and Indian states
-- **Modern UI**: Shareable conversations, streaming responses, mobile-first
 
+- 🤖 AI Farming Assistant
+- 🌱 Crop Yield Prediction
+- 🦠 Plant Disease Detection
+- 📈 Market Price Forecast
+- 🗺️ Google Maps Integration
+- 🌦️ Live Weather Information
+- 🎤 Voice Assistant
+- 🌍 Multilingual AI Chat
+- 📱 Modern Responsive UI
 ---
-
-## 🛠️ Tech Stack
-
 **Backend:**
-- Python, FastAPI
-- Multi-agent system (Gemini LLM integration)
-- Web scraping (AgMarkNet)
-- ML models: yield, disease
-- Caching, static data fallback
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Vite
+- CSS Modules
+
+### Backend
+- FastAPI
+- Python
+
+### AI
+- Gemini AI
+
+### APIs
+- Google Maps API
+- OpenWeather API
+
+### Deployment
+- Vercel
+- Render
 
 **Frontend:**
 - React (Vite)

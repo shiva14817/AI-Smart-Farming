@@ -1,0 +1,44 @@
+# =========================
+# Python
+# =========================
+backend/venv/
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+.env.*
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# =========================
+# React / Vite
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Cache
+.cache/
+
+# Node
+**/node_modules/
+
+# Environment files
+*.env
+*.env.*

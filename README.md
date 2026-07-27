@@ -1,4 +1,17 @@
 # FarmGenius
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi)
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
+
+![Vite](https://img.shields.io/badge/Vite-Build-purple?logo=vite)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+![AI](https://img.shields.io/badge/AI-Gemini-orange)
 
 > **Empowering Indian agriculture with AI, real-time data, and a beautiful user experience.**
 

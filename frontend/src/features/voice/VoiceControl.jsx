@@ -3,7 +3,7 @@ import { processVoiceCommandApi } from '../../services/api';
 import { FaMicrophone, FaSpinner, FaPaperPlane } from "react-icons/fa";
 import { MdVoiceChat, MdTranslate } from "react-icons/md";
 
-const API_BASE = "http://localhost:8000/api/v1";
+const API_BASE = import.meta.env.VITE_API_BASE_URL;
 
 const VoiceControl = () => {
   const [transcript, setTranscript] = useState("");

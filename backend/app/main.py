@@ -34,7 +34,8 @@ origins = [
     "http://127.0.0.1:5173",
     "http://localhost:5182",
     # Production frontend URL
-    "https://404-snowy.vercel.app",
+     # Production Frontend
+    "https://ai-smart-farming-ashen.vercel.app",
     # Add other origins if needed (e.g., deployed frontend URL)
 ]
 

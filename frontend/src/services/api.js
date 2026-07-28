@@ -2,9 +2,10 @@ import axios from 'axios';
 
 // Get the backend URL from environment variables (good practice for deployment)
 // Fallback to localhost for development
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api/v1';
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://localhost:8000/api/v1";
 
-// Create an axios instance
+console.log("API_BASE_URL =", API_BASE_URL);
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
 });
